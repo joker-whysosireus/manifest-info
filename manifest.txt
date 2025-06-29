@@ -1,5 +1,5 @@
 {
-  "url": "https://mine-bts.netlify.app/",
+  "url": "https://minebts.online/",
   "name": "Mine BTS!",
   "iconUrl": "https://maroon-junior-swordtail-872.mypinata.cloud/ipfs/bafybeiaowbbvxtoci4gdejkk5qaghiyuhnw37j3oeargycjofunmmnueba"
 }
