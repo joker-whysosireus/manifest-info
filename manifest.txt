@@ -1,5 +1,5 @@
 {
   "url": "https://minebts.online/",
   "name": "Mine BTS!",
-  "iconUrl": "https://maroon-junior-swordtail-872.mypinata.cloud/ipfs/bafybeiaowbbvxtoci4gdejkk5qaghiyuhnw37j3oeargycjofunmmnueba"
+  "iconUrl": "https://pink-advanced-newt-696.mypinata.cloud/ipfs/bafkreia2au7jxuymiaeer7mgiq7qijdclzafi7z2f67hpzzxzrmf6ej5gu"
 }
