@@ -1,5 +1,5 @@
 {
   "url": "https://minebts.online/",
   "name": "Mine BTS!",
-  "iconUrl": "https://pink-advanced-newt-696.mypinata.cloud/ipfs/bafkreia2au7jxuymiaeer7mgiq7qijdclzafi7z2f67hpzzxzrmf6ej5gu"
+  "iconUrl": "https://pink-advanced-newt-696.mypinata.cloud/ipfs/bafkreibqnnjnamfsptdc66qbdtkrklxetnnkm3xzkul63qlwt3j4i73syq"
 }
